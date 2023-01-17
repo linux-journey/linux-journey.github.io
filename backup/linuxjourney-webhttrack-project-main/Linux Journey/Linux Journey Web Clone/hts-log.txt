@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 20 Sep 2021 09:16:08 at https://linuxjourney.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://linuxjourney.com/ -O1 "C:\Users\PLR\Documents\My Web Clones\Linux Journey Web Clone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:19:17	Warning: 	Link https://linuxjourney.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 11 seconds : 238 links scanned, 237 files written (2520923 bytes overall) [1598049 bytes received at 8366 bytes/sec], 1958251 bytes transferred using HTTP compression in 199 files, ratio 34%, 53.6 requests per connection
+(No errors, 1 warnings, 0 messages)

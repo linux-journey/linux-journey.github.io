@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+linuxjourney.com	TRUE	/	FALSE	1999999999	request_method	GET
+linuxjourney.com	TRUE	/	FALSE	1999999999	linuxjourney_locale	tr
+linuxjourney.com	TRUE	/	FALSE	1999999999	_linux_journey_session	NTZqY01sQTdDWDRES0JRS2FFNjVBM0I4ZGRLT2hoSkhTdS9mOHBONzlDeUZ2cXN2L2VGWXJoQWRZOFRoNEFkK0VmamdhMzllUWtSYjMwZWwwSVZCNTRDWExqZ0hTUmM3MXZYbm1nbmVpOVc4R2xsMEE4cldvVVhtaXZJdUJlVURWNHZlZEpUNkowM1ZRNk5aWG1TNFlnPT0tLTJuN0liV3lDck1vakYxNDFrZmY2WWc9PQ%3D%3D--836ad9370b234b3b883bfd21c4aae057ab3f2255
+
