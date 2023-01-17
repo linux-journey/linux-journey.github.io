@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://linux-journey.github.io/</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/index.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/getting-started/linux-history.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/the-shell.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/stdout-standard-out-redirect.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/regular-expressions-regex.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/user-management/users-and-groups.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/access/file-permissions.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/processes/monitor-processes-ps-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/packages/software-distribution.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/devices/dev-directory.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/filesystem/filesystem-hierarchy.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/booting/boot-process-overview.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/kernel/kernel-overview.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/init/sysv-overview.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/process-utilization/tracking-processes-top.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/logging/system-logging.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-sharing/network-file-sharing.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-fundamentals/network-basics.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/subnetting/ipv4.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/routing/what-is-a-router.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-configuration/network-interfaces.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-troubleshooting/icmp.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/dns/what-is-dns.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/getting-started/choosing-a-linux-distribution.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/getting-started/debian.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/getting-started/red-hat-enterprise-linux.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/getting-started/ubuntu.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/getting-started/fedora.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/getting-started/linux-mint.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/getting-started/gentoo.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/getting-started/arch-linux.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/getting-started/opensuse.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/print-working-directory-pwd-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/change-directory-cd-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/list-directories-ls-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/touch-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/file-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/cat-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/less-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/history-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/copy-cp-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/move-mv-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/make-directory-mkdir-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/remove-rm-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/find-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/help-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/man-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/whatis-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/alias-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/command-line/exit-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/stdin-standard-in-redirect.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/stderr-standard-error-redirect.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/pipe-tee-redirect.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/env-environment.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/cut-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/paste-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/head-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/tail-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/expand-unexpand-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/join-split-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/sort-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/tr-translate-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/uniq-unique-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/nl-wc-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu/grep-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/text-editors-vim-or-emacs.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/vim-text-editor.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/vim-search-patterns.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/vim-navigation.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/vim-inserting-appending-text.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/vim-editing.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/vim-saving-and-exiting.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/emacs-text-editor.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/emacs-manipulate-files.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/emacs-buffer-navigation.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/emacs-editing.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/text-fu-advanced/emacs-exiting-and-help.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/user-management/root-user.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/user-management/etc-passwd-file.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/user-management/etc-shadow-file.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/user-management/etc-group-file.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/user-management/user-management-tools.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/access/modifying-permissions.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/access/ownership-permissions.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/access/umask.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/access/setuid-set-user-id.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/access/setgid-set-group-id.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/access/process-permissions.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/access/sticky-bit.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/processes/controlling-terminal.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/processes/process-details.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/processes/process-creation.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/processes/process-termination.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/processes/process-signals.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/processes/killing-processes.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/processes/process-niceness.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/processes/process-states.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/processes/proc-filesystem.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/processes/job-control.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/packages/package-repositories.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/packages/compressed-archives-tar.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/packages/package-dependencies.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/packages/package-install-tools.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/packages/package-management-systems.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/packages/compile-source-code.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/devices/device-types.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/devices/device-names.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/devices/sysfs.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/devices/udev.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/devices/listing-devices.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/devices/dd-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/filesystem/filesystem-types.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/filesystem/anatomy-of-a-disk.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/filesystem/disk-partitioning.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/filesystem/creating-filesystems.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/filesystem/mounting-and-unmounting-filesystems.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/filesystem/etc-fstab-file-system-table.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/filesystem/swap-space.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/filesystem/disk-usage.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/filesystem/filesystem-repair.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/filesystem/inodes.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/filesystem/symlinks.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/booting/boot-process-bios.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/booting/boot-process-bootloader.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/booting/boot-process-kernel.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/booting/boot-process-init.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/kernel/kernel-privilege-levels.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/kernel/system-calls.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/kernel/kernel-installation.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/kernel/kernel-location.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/kernel/kernel-modules.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/init/sysv-services.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/init/upstart-overview.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/init/upstart-jobs.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/init/systemd-overview.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/init/systemd-goals.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/init/power-states.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/process-utilization/tracking-processes-lsof-fuser.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/process-utilization/process-threads.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/process-utilization/cpu-monitoring.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/process-utilization/io-monitoring.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/process-utilization/memory-monitoring.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/process-utilization/continuous-monitoring.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/process-utilization/cron-jobs.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/logging/syslog.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/logging/general-logging.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/logging/kernel-logging.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/logging/authentication-logging.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/logging/managing-log-files.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-sharing/rsync.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-sharing/simple-http-server.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-sharing/nfs-network-file-share.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-sharing/samba.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-fundamentals/osi-model.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-fundamentals/tcp-ip-model.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-fundamentals/network-addressing.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-fundamentals/application-layer.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-fundamentals/transport-layer.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-fundamentals/network-layer.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-fundamentals/link-layer.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-fundamentals/dhcp-overview.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/subnetting/subnets.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/subnetting/subnet-math.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/subnetting/subnetting-cheats.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/subnetting/classless-interdomain-routing-cidr.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/subnetting/nat-network-address-translation.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/subnetting/ipv6.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/routing/routing-table.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/routing/path-of-a-packet.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/routing/routing-protocols.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/routing/distance-vector-protocols.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/routing/link-state-protocols.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/routing/bgp-border-gateway-protocol.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-configuration/route.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-configuration/dhclient.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-configuration/network-manager.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-configuration/arp-command.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-troubleshooting/ping.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-troubleshooting/traceroute.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-troubleshooting/netstat.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/network-troubleshooting/packet-analysis.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/dns/dns-components.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/dns/dns-process.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/dns/etc-hosts.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/dns/dns-setup.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://linux-journey.github.io/lesson/dns/dns-tools.html</loc>
+  <lastmod>2023-01-17T12:37:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
